@@ -1,0 +1,72 @@
+﻿Build started 12/18/2013 4:26:51 PM.
+     1>Project "C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Poker\Poker.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Card.cpp Deck.cpp Hand.cpp Main.cpp Players.cpp PokerGame.cpp
+         PokerGame.cpp
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(97): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(253): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(310): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(482): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(498): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(507): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(523): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(532): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(542): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(544): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(575): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(582): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(605): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(619): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\pokergame.cpp(648): warning C4018: '<' : signed/unsigned mismatch
+         Players.cpp
+         Main.cpp
+         Hand.cpp
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(29): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(94): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(97): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(109): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(184): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(186): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(198): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(200): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(220): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(222): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jorge\documents\visual studio 2013\projects\poker\poker\hand.cpp(224): warning C4018: '<' : signed/unsigned mismatch
+         Deck.cpp
+         Card.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Debug\Poker.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Debug\Poker.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Debug\Poker.lib" /MACHINE:X86 Debug\Card.obj
+         Debug\Deck.obj
+         Debug\Hand.obj
+         Debug\Main.obj
+         Debug\Players.obj
+         Debug\PokerGame.obj
+         Poker.vcxproj -> C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Debug\Poker.exe
+     1>Done Building Project "C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Poker\Poker\Poker.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.13
